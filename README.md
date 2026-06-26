@@ -1,2 +1,2 @@
 # Meduza-Analytics-Dashboard
-marketing-analytics, data-science, dashboard, javascript, tailwind-css, chartjs, roi-calculator, frontend-development
+Painel analítico interativo para simulação de ROI, monitoramento de webhooks em tempo real e geração de insights com IA. Desenvolvido com HTML5, Tailwind CSS e Chart.js.”
